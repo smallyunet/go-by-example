@@ -6,6 +6,6 @@
 
 https://gobyexample.com/
 
-- tutoriala
+- tutorials
 
 https://go.dev/doc/tutorial/
